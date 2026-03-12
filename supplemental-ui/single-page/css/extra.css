@@ -27,6 +27,10 @@ body, .doc {
 
 /* Content area */
 
+.doc h1.page {
+  font-family: Poppins, sans-serif;
+}
+
 .doc h1,
 .doc h2,
 .doc h3,
@@ -56,13 +60,14 @@ nav.navbar .navbar-item {
   color: #002d41;
 }
 
-.navbar-end>a.navbar-item {
+.navbar-end > a.navbar-item {
   background: inherit;
   color: #002d41;
+  font-family: Poppins, sans-serif;
   font-size: 0.75rem;
 }
 
-.navbar-end>a.navbar-item:hover {
+.navbar-end > a.navbar-item:hover {
   color: #002d41;
   background-color: #e9f1f5;
 }
