@@ -23,16 +23,13 @@
 
 /* Content area */
 
-.doc h1.page {
-  font-family: Poppins, sans-serif;
-}
-
 .doc h1,
 .doc h2,
 .doc h3,
 .doc h4,
 .doc h5,
 .doc h6 {
+  font-family: Poppins, sans-serif;
   color: #002d41;
 }
 
